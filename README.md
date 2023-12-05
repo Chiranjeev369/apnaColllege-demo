@@ -1,4 +1,4 @@
 # apnaColllege-demo
 this is git repository
 <br>
-author-chiranjeev ji
+author-chiranjeev ji mahan hai
